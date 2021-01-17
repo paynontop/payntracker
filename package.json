@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "node bot.js",
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "ascii-table": "0.0.9",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "common-tags": "^1.8.0",
+    "datejs": "^1.0.0-rc3",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "hypixel-api-reborn": "https://github.com/Hypixel-API-Reborn/hypixel-api-reborn",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.8",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^1.2.18",
+    "random-puppy": "^1.1.0",
+    "replace-color": "^2.1.0",
+    "snekfetch": "^4.0.4",
+    "table": "^5.4.6"
+  }
+}
